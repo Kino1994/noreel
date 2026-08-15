@@ -1,0 +1,7 @@
+tools/
+keystore/
+apks/
+out/
+*.apk
+*.idsig
+__pycache__/
